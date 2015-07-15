@@ -1,0 +1,54 @@
+<link href='http://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+
+body {
+  font-family: arial;
+  background-color: #FFD1DC;
+}
+
+h1 {
+  color: #add8e6;
+  text-shadow: 2px 2px #eee;
+}
+
+h2 {
+  color: #FF7878;
+  text-shadow: 2px 2px #eee;
+}
+
+a {
+  color: #b19cd9;
+  font-size: 18px;
+  transition: all 0.5s ;
+  opacity: 0.5;
+}
+
+a:hover {
+  color: #eee;
+  opacity: 1;
+}
+
+img {
+  transition: all 0.5s;
+  opacity: 0.8;
+  border: 3px solid #eee;
+  border-style: double;
+  }
+
+img:hover {
+  opacity: 1;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 13px;
+  color: #add8e6;
+}
+
+section {
+  border: 3px solid #eee;
+  border-width: 50px;
+  padding: 20px;
+}
